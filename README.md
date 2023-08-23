@@ -1,6 +1,6 @@
 # Tristate Designs
 
-Welcome to the GitHub repository for the Tristate Designs website, developed using WordPress. Tristate Designs is a comprehensive digital service company dedicated to providing businesses with customized solutions that resonate with their target audience and deliver impactful results.
+Tristate Designs is a comprehensive digital service company dedicated to providing businesses with customized solutions that resonate with their target audience and deliver impactful results.
 
 ## Table of Contents
 
