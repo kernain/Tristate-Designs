@@ -1,106 +1,46 @@
-=== Astra ===
-Contributors: brainstormforce
-License: GPLv2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
-Tags: custom-menu, custom-logo, entertainment, featured-images, full-width-template, one-column, two-columns, left-sidebar, e-commerce, right-sidebar, custom-colors, editor-style, featured-images, full-width-template, microformats, post-formats, rtl-language-support, theme-options, threaded-comments, translation-ready, blog
-Tested up to: 6.3
-Requires PHP: 5.3
-Stable tag: 4.2.2
+# Tristate Designs
 
-Astra is fast, fully customizable & beautiful WordPress theme suitable for blog, personal portfolio, business website and WooCommerce storefront.
+Welcome to the GitHub repository for the Tristate Designs website, developed using WordPress. Tristate Designs is a comprehensive digital service company dedicated to providing businesses with customized solutions that resonate with their target audience and deliver impactful results.
 
-== Description ==
+## Table of Contents
 
-Astra is fast, fully customizable & beautiful WordPress theme suitable for blog, personal portfolio, business website and WooCommerce storefront. It is very lightweight (less than 50KB on frontend) and offers unparalleled speed. Built with SEO in mind, Astra comes with Schema.org code integrated and is Native AMP ready so search engines will love your site.
+- [Introduction](#introduction)
+- [Features](#features)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-It offers special features and templates so it works perfectly with all page builders like Elementor, Beaver Builder, Visual Composer, SiteOrigin, Divi, etc. Some of the other features: # WooCommerce Ready # Responsive # RTL & Translation Ready # Extendible with premium addons # Regularly updated # Designed, Developed, Maintained & Supported by Brainstorm Force.
+## Introduction
 
-Looking for a perfect base theme? Look no further. Astra is fast, fully customizable and WooCommerce ready theme that you can use for building any kind of website!
+Tristate Designs' WordPress website showcases the company's expertise in delivering audience-centric digital solutions. The website serves as a hub of information about Tristate Designs' services, portfolio, and approach to helping businesses thrive in the digital landscape.
 
-== Installation ==
+## Features
 
-= From within WordPress =
-1. Visit "Appearance > Themes > Add New"
-2. Search for "Astra"
-3. Install and activate
+- **Service Offerings:** Learn about Tristate Designs' wide range of digital services, including web design, branding, digital marketing, and more.
 
-== License ==
+- **Portfolio Showcase:** Explore a collection of projects that highlight Tristate Designs' capabilities and the successful collaborations with clients.
 
-Astra WordPress Theme, Copyright 2020 WPAstra.
-Astra is distributed under the terms of the GNU GPL.
+- **Client Testimonials:** Read about the experiences of satisfied clients who have benefited from Tristate Designs' tailored solutions.
 
-Astra is based on Underscores https://underscores.me/, (C) 2012-2020 Automattic, Inc.
-Underscores is distributed under the terms of the GNU GPL v2 or later.
+- **Blog Section:** Stay updated with the latest industry trends, insights, and tips through Tristate Designs' blog.
 
-== Features ==
+- **Contact and Inquiry:** Get in touch with Tristate Designs' expert team easily through the contact information provided on the website.
 
-= Appearance > Widgets =
-Astra has up to 4 widget area. 1 in your header, 1 for each sidebar and up to 2 in your footer.
-
-= Appearance > Customize =
-	- Site Identity: Hide your site title or tagline, and upload your own header.
-	- Layout: Change things like your container width, header layout, Header width, Custom menu item , sidebar layout and much more.
-	- Set footer layout there is a two footer layout layout 1 and layout 2. layout 1 is stack style and layout 2 is inline.
-	- Blog: Show the full post or excerpt, also show and hide blog post meta & adjust blog post width to default or custom.
-	- Single post:Set single post meta and adjust width to custom or default.
-	- Colors & background: Choose your default background color, body color, theme color and link color.
-	- Typography: Choose your default body font & set default font size to H1 to H6 tags, Site title, tagline & blog post title on archive page and single page.
-
-= ASTRA Child Theme =
-
-There are multiple ways you can use a child theme with the Astra Theme, Use any one method mentoned below to create a child theme or use a child theme we have created.
-
-1. Download the child theme from Github - https://github.com/brainstormforce/astra-child/releases/latest/
-2. More information on creating child theme. - https://developer.wordpress.org/themes/advanced-topics/child-themes/
+- **Responsive Design:** The website is designed to adapt seamlessly to various devices and screen sizes, ensuring an optimal user experience.
 
 
-= Screenshot & WP-Preview Starter Content Licenses =
+## Usage
 
-Screenshot image is a collage of actual sites created using the Astra WordPress Theme.
+Visit the live Tristate Designs website at [https://www.tristatedesigns.com](https://www.tristatedesigns.com) to explore the array of digital services offered by the company. Navigate through different sections to understand their approach, view their portfolio, and gather insights from their blog posts. If you're interested in collaborating with Tristate Designs, reach out using the contact details provided on the website.
 
-Icons used are all licensed under Massachusetts Institute of Technology ( MIT ) License ( https://heroicons.com )
+## Contributing
 
-Illustrations used are all licensed under Creative Commons ( CC0 ) License ( https://gumroad.com/l/humaaans )
-https://websitedemos.net/web-design-agency-08/wp-content/uploads/sites/796/2021/05/standing-24.png
-https://websitedemos.net/web-design-agency-08/wp-content/uploads/sites/796/2021/05/sitting-2.png
+Contributions to enhance the Tristate Designs website are welcomed! Feel free to open issues or submit pull requests for improvements, fixes, or new features. Please adhere to the project's code of conduct in all interactions.
 
-Hand-drawn illustrations used are created by Brainstorm Force and released under Creative Commons ( CC0 ) License.
-https://websitedemos.net/web-design-agency-08/wp-content/uploads/sites/796/2021/05/girl-with-image-container.png
-https://websitedemos.net/web-design-agency-08/wp-content/uploads/sites/796/2021/05/boy-with-code-container.png
-https://websitedemos.net/web-design-agency-08/wp-content/uploads/sites/796/2021/05/web-browser.png
+## License
 
-Images used in the WordPress preview starter content are all licensed under Creative Commons ( CC0 ) License ( https://pxhere.com )
+This project is licensed under the [MIT License](LICENSE).
 
-The same site as screenshot can be imported from here https://websitedemos.net/web-design-agency-08/.
+---
 
-For more information, refer to this document on how to create a page like in the screenshot - https://wpastra.com/docs/replicating-the-screenshot/.
-
-
-= Normalizing styles =
-
-Normalizing styles have been helped along thanks to the fine work of.
-Nicolas Gallagher and Jonathan Neal https://necolas.github.com/normalize.css/
-
-= Flexibility JS =
-
-Flexibility is a JavaScript polyfill for Flexbox By Jonathan Neal, 10up. (https://github.com/jonathantneal/flexibility)
-Licensed under MIT ( https://github.com/jonathantneal/flexibility/blob/master/LICENSE.md )
-
-= IcoMoon-Free =
-
-Astra icon font is based on IcoMoon-Free vector icon by Keyamoon.
-IcoMoon-Free vector icon destributed under trems of CC BY 4.0 or GPL. (https://creativecommons.org/licenses/by/4.0/ or https://www.gnu.org/licenses/gpl.html)
-Source: http://keyamoon.com/
-
-= Breadcrumb Trail =
-
-Astra default breadcrumb is based on Breadcrumb Trail by Justin Tadlock. (https://github.com/justintadlock/breadcrumb-trail)
-Breadcrumb Trail is distributed under the terms of the GNU GPL v2 or later.
-
-Underscores
-https://underscores.me/, (C) 2012-2020 Automattic, Inc., [GPLv2 or later](https://www.gnu.org/licenses/gpl-2.0.html)
-
-= Webfonts Loader =
-
-Astra local fonts feature is based on Webfonts Loader by WordPress Themes Team (WPTT). (https://github.com/WPTT/webfont-loader)
-Licensed under MIT ( https://github.com/WPTT/webfont-loader/blob/master/LICENSE )
+For more information about Tristate Designs and how they empower businesses with tailored digital solutions, visit [https://www.tristatedesigns.com](https://www.tristatedesigns.com).
